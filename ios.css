@@ -1,0 +1,435 @@
+
+body{
+    margin: 0;
+    padding: 0%;
+    text-align: center;
+  
+    
+    
+}
+.navbar {
+    width: 100%;
+    height: 30px;
+    margin: 0%;
+    
+
+  
+
+    
+}
+.navbar ul{
+    list-style: none;
+    background: rgb(56, 55, 55);
+    padding-top: 1%;
+    margin: 0%;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    z-index: 8;
+    position: fixed;
+    width: 100%;
+    
+    
+    
+
+}.navbar li{
+
+    display:inline-table;
+}
+.navbar a{
+    text-decoration:none ;
+    color :rgb(245, 239, 239);
+    display: block;
+    padding: 2px 20px;
+    font-weight: lighter;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  
+
+}
+.navbar2{
+    height: 50px;
+    width: 100%;
+    background-color: rgb(231, 229, 229);
+    align-items: center;
+    
+}
+.navbar2 p{
+    font-size: 91%;
+    margin-top: 1px;
+    padding-top: 20px;
+    text-align: center;
+
+}
+.i{
+    width: 100%;
+}
+.i h1{
+  font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+  font-size: 52px;
+  font-weight:600;
+}
+.i h2{
+    font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 30px;
+    font-weight:200;
+
+
+}
+.i a{
+    color: rgb(58, 182, 240);
+}
+.i2 {
+    width: 100%;
+    height: 800px;
+    background-color:#39223c;
+
+
+}
+.i2 h1{
+    font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+  font-size: 52px;
+  font-weight:600;
+  color: aliceblue;
+
+
+}
+.i2 h2{
+    font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 30px;
+    font-weight:200;
+    color: #f1c1eb;
+
+
+}
+.i2 a{
+    
+    color: #f1c1eb;
+}
+
+
+
+
+.i2 img{
+    width: 80%;
+    height: 600px;
+    padding-top: 12px;
+    margin-bottom: -400px;
+    margin-top: -400
+    px
+    ;
+
+
+}
+   
+
+    
+
+.i3{
+    width: 100%;
+    height: 638px;
+    background-color: #fbfbfd;
+
+}
+.i3 h1{
+    font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+  font-size: 52px;
+  font-weight:600;
+
+}
+.i3 h2{
+    font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 30px;
+    font-weight:200;
+
+
+}
+.watch{
+    width: 50%;
+    height: 600px;
+    background-color: #f5f5f7;
+}
+
+.iwatch1{
+   
+    width: 100%;
+    height: 300px;
+    margin-top: 6px;
+
+
+   
+}
+.watch h6{
+  
+    font-weight: lighter;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 45px;
+    font-size: 14px;
+    color: rgb(221, 40, 40);
+
+
+}
+.ipad{
+    width: 50%;
+    margin-top: -694px;
+
+    height: 600px;
+    margin-left: 916px;
+
+    background-color:#fbfbfd;
+}
+.ipad1{
+    width: 100%;
+    height: 300px;
+    margin-top: 31px;
+}
+.ipad h6{
+    padding-top: ;
+    font-weight: lighter;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 40px;
+    color: rgb(221, 40, 40);
+}
+
+
+
+.acces{
+    margin-top: auto;
+    width: 100%;
+    height:500px ;
+
+}
+.airpods{
+    width: 50%;
+    height: 500px;
+    background-color: #fbfbfd;
+    margin-top: 2%;
+
+
+
+}
+.airpods img{
+    
+    width: 100%;
+    height: 69%;
+
+}
+.airpods h1{
+    font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 32px;
+    font-weight:600;
+
+}
+.airpods h2{
+    font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: px;
+    font-weight:600;
+
+}
+.airpods p{
+    font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: px;
+    font-weight:200;
+    color: #2098d1;
+
+}
+.homepod{
+    width: 50%;
+    height: 500px;
+    background-color: #fbfbfd;
+    margin-top: 2%;
+    margin-left: auto;
+    margin-top: -520px;
+
+
+}
+.homepod h1{
+    font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 32px;
+    font-weight:600;
+    padding-top: 29px;
+
+}
+.homepod img{
+    width: 100%;
+    height: 66%;
+
+    
+}
+
+
+.appmovie{
+    width: 100%;
+    height: 600px;
+    background-color: black;
+}
+.srvc{
+    width: 50%;
+    height: 600px;
+    background-color: #fbfbfd;
+    margin-top: 2%;
+
+}
+.ima{
+    padding-top: 30px;
+}
+.srvc h4{
+    font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-weight:600;
+    padding-top: 29px;
+}
+.srvc p{
+    font-family: SF Pro Display,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: px;
+    font-weight:200;
+    color: #2098d1;
+
+}
+.nowstr{
+    width: 50%;
+    height: 600px;
+    background-color: #fbfbfd;
+    margin-top: 2%;
+    margin-left: auto;
+    margin-top: -600px;
+
+}
+.nowstr img{
+    height: 585px;
+
+}
+
+.imag{
+    position: relative;
+    
+}
+.imag h1{
+   
+    position: absolute;
+   
+    color: #faf5f9;
+   margin-top: -200px;
+   margin-left:  390px;
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   font-weight: 300;
+  
+    
+
+    
+}
+.imag h4{
+   
+    position: absolute;
+    top: 0;
+    color: #faf5f9;
+   margin-top: -153px;
+   margin-left: 465px;
+   
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   font-weight: 300;
+}
+.imag h2{
+   
+    position: absolute;
+    top: 0;
+    color: #faf5f9;
+   margin-top: -120px;
+   margin-left:  440px;
+   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   font-weight: 800;
+   font-size: 20px;
+}
+.foot{
+    height: 521px;
+    width: 100%;
+   margin-top: 100px;
+   background-color: #f5f5f7;
+   font-size: 16px;
+}
+.foot h6{
+    box-sizing: inherit;
+    padding-top: 50px;
+    font-size:12px;
+    font-weight: 100;
+    color: 
+    #5c5b5a
+    ;
+}
+.foot hr{
+    border: width 1px;
+    width: 80%;
+}
+.col1{
+    padding-left: 0rem;
+    background-color: #f5f5f7;
+    width: 25%;
+    height: 300px;
+}
+.col1 li{
+    list-style-type: none;
+    font-weight: 100;
+    color: 
+    #5c5b5a
+    ;
+
+
+
+}
+.col2{
+    padding-left: 0rem;
+    background-color: #f5f5f7;
+    width: 25%;
+    height: 300px;
+    margin-left: 400px;
+    margin-top: -328px;
+}
+.col2 li{
+    list-style-type: none;
+    font-weight: 100;
+    color: 
+    #5c5b5a
+    ;
+
+
+
+}
+.col3{
+    padding-left: 0rem;
+    background-color: #f5f5f7;
+    width: 25%;
+    height: 300px;
+    margin-left: 800px;
+    margin-top: -328px;
+}
+.col3 li{
+    list-style-type: none;
+    font-weight: 100;
+    color: 
+    #5c5b5a
+    ;
+
+
+
+}
+.col4{
+    padding-left: 0rem;
+    background-color:#f5f5f7;
+    width: 25%;
+    height: 300px;
+    margin-left: 1200px;
+    margin-top: -328px;
+}
+.col4 li{
+    list-style-type: none;
+    font-weight: 100;
+    color: 
+    #5c5b5a
+    ;
+
+
+
+}
+
+
+
+   
